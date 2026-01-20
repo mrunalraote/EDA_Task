@@ -9,7 +9,6 @@ This dataset contains information about movies and TV shows available on Netflix
 
 ## 🛠 Tools & Technologies
 - Google Collab
-
 ---
 
 ## 🎯 Objective
